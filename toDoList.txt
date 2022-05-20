@@ -1,0 +1,47 @@
+- Viết các hàm lambda
++create table (OK)
++delete table (OK)
++get all tables (OK) 
++add item (OK)
++update item (OK)
++delete item (OK)
+-Tạo các Queue và kiểm tra tương tác của chúng với các hàm lambda (OK)
+-Hiển thị tên bảng (OK) 
+-Thêm bảng (OK) 
+-Xóa bảng (OK)
+-Kiểm tra bảng có tồn tại (OK)
+-In thêm thông tin bảng (Lấy được partition key và sort key) (OK)
+-Hiển thị chi tiết bảng (Items list) (OK nhưng xấu)
+-delete item (OK)
+-add item (OK)
+-update item (OK)
+-chức năng tìm kiếm bảng theo tên (bỏ)
+-Fix vài lỗi linh tinh:
++Errors, alert,...
++Xóa sạch message trước khi gửi message mới 
+#Ờm, khum dc, chỉ có cách purge queue mà tốn đến 60s
+-->Giải quyết bằng cách cho receive đến chết trong 20s (Khum ổn lắm)
+-->Setting rention time
++Xóa hết code dư thừa để nhẹ project
+-Deploy lên EC2/S3
+*Mở rộng: chức năng đăng ký, đăng xuất, đăng nhập
+
+14/05/2022
+-Demo thử 
+-Làm Slide
+
+#Hoàn thiện project
+#Deploy
+#Demo lại
+#Vấn đề gặp phải
+#Cập nhật github
+#Tìm hiểu API getway + Viết document
+
+
+
+
+
+
+
+
+ 

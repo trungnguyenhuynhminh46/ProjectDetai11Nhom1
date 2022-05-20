@@ -1,0 +1,5 @@
+#Note:
+dynamically added items don't have the handler => use on('click') instead of click()
+Có thể dùng java/jquery/... POST dữ liệu đến trang khác --> Học sâu Java/React
+-->Nếu POST theo cách này thì button submit có type = "button"
+-->Nếu muốn POST như mặc định thì type="submit"

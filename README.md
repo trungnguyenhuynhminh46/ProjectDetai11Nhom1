@@ -35,6 +35,7 @@ Link video hướng dẫn: https://youtu.be/L9aZ38QmrSo
 - Copy URL các SQS vừa tạo và past vào file lib/tables.php trong thư mục project để thay thế các URL của SQS
 - Mở XAMPP và start Apache
 - mở trình duyệt http://localhost:8001/ProjectDetai11Nhom1
+=> run local thành công
 
 ## Cách clone project (video hướng dẫn + text hướng dẫn):
 Link video hướng dẫn: https://youtu.be/LqgAbx-NY0w

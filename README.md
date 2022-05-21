@@ -37,7 +37,7 @@ Link video hướng dẫn: https://youtu.be/L9aZ38QmrSo
 - mở trình duyệt http://localhost:'port-apache'/ProjectDetai11Nhom1
 => run local thành công
 
-## Cách clone project (video hướng dẫn + text hướng dẫn):
+## Cách Deploy project EC2 (video hướng dẫn + text hướng dẫn):
 Link video hướng dẫn: https://youtu.be/LqgAbx-NY0w
 - Tạo EC2 với hệ điều hành window, mở port http và alltraffic
 - Tạo Elastic IP kết nối đến EC2

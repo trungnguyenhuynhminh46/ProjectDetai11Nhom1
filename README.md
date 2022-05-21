@@ -44,6 +44,6 @@ Link video hướng dẫn: https://youtu.be/LqgAbx-NY0w
 - Trên window của EC2 vào Window Security --> Firewall & network protection --> Windows Defender Firewall Properties --> tag Public Profile --> Allow Inbound connections --> Apply--> ok
 - Dowload XAMPP và GIT
 - mở git bash trong thư mục htdocs của XAMPP vừa tải về và git clone https://github.com/trungnguyenhuynhminh46/ProjectDetai11Nhom1.git
-- Copy .aws của local máy tính và past vào c/user/Administrator
+- Copy .aws của local máy tính và past vào c/user/Administrator của máy window EC2
 - mở XAMPP start apache và mở trình duyệt vào http://<ip máy EC2>/ProjectDetai11Nhom1
 => Deploy thành công

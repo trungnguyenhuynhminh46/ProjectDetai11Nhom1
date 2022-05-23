@@ -25,17 +25,21 @@
 
 
 ## Cách Chạy Project ở Local (video hướng dẫn + text hướng dẫn):
-Link video hướng dẫn: https://youtu.be/L9aZ38QmrSo
-- Vào LearnLab--> start lab --> Aws Detail -->   AWS CLI --> show  copy bảng credentials
-- vào thư mục C:\Users\tên máy\ .aws\credentials
-- past AWS CLI vừa copy file credentials 
+### Bước 1: Chuẩn bị môi trường
+-Link video hướng dẫn: https://youtu.be/L9aZ38QmrSo
++ Vào LearnLab--> start lab --> Aws Detail -->   AWS CLI --> show  copy bảng credentials
++ vào thư mục C:\Users\tên máy\ .aws\credentials
++ past AWS CLI vừa copy file credentials 
 - Tải và cài đặt XAMPP và Git
+### Bước 2: Cấu hình lại đồ án
 - git clone https://github.com/trungnguyenhuynhminh46/ProjectDetai11Nhom1.git vào thư mục htdocs của XAMPP 
 - vào AWS Tạo các SQS và Lamda theo file Lamda.txt
-- Copy URL các SQS vừa tạo và past vào file lib/tables.php trong thư mục project để thay thế các URL của SQS
+- Chú ý Copy URL các SQS vừa tạo và past vào file lib/tables.php trong thư mục project để thay thế các URL của SQS
+![1](https://user-images.githubusercontent.com/58035150/169813535-2537b298-7833-43ae-b5c9-2c3f3c63286d.png)
+![2](https://user-images.githubusercontent.com/58035150/169813546-af0d0959-1bc5-4c0c-ac72-5d04bd3c4cb5.png)
+### Bước 3: Chạy
 - Mở XAMPP và start Apache
 - mở trình duyệt http://localhost:'port-apache'/ProjectDetai11Nhom1
-=> run local thành công
 
 ## Cách Deploy project EC2 (video hướng dẫn + text hướng dẫn):
 Link video hướng dẫn: https://youtu.be/LqgAbx-NY0w
